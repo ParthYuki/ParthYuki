@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthyuki" alt="parthyuki" /></a> </p>
 
-- 🔭 I’m currently working on **Next Word Prediction using BERT**
+- 🔭 I’m currently working on **AI Proctor**
 
-- 🌱 I’m currently learning **Hugging Face's transformers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
